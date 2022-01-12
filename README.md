@@ -4,7 +4,7 @@
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-38a047.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Flagship_Projects)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1390/badge)](https://bestpractices.coreinfrastructure.org/projects/1390)
 
-**CRS migrated to a new :house: !**
+**CRS migrated to a new :house: :PLESE: !**
 
 The OWASP ModSecurity Core Rule Set (CRS) has moved to https://github.com/coreruleset/coreruleset.
 
